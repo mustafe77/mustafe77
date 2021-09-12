@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 - 🔭 I’m currently working on CODEFACTORY
 - 🌱 I’m currently learning Front-end programming
 - 👯 I’m looking to collaborate on Front-End
