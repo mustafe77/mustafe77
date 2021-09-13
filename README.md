@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-end programming
 - 👯 I’m looking to collaborate on Front-End
 - 💬 Ask me about Careers, Front-end,Anything
-- 📫 How to reach me: mustafeyusuf@gmx.at
+- 📫 How to reach me: 
 - ⚡ Fun fact: Dancing !!!
 ## Blogs postsa
 
