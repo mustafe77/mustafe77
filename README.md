@@ -1,11 +1,6 @@
 
 # Hi there 👋
-  [![HitCount](http://hits.dwyl.com/mustafe77/mustafe77.svg?style=flat-square)](http://hits.dwyl.com/mustafe77/mustafe77)
-
-
-
-
-
+<!--   [![HitCount](http://hits.dwyl.com/mustafe77/mustafe77.svg?style=flat-square)](http://hits.dwyl.com/mustafe77/mustafe77) -->
 Coming Soon
 
  <br>
