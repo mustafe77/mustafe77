@@ -10,9 +10,7 @@ Coming Soon
 
  <br>
 
-
-
-<!-- Tecnologias -->
+<!-- Tech -->
 
 <div style="display: inline_block">
  <h3> Front-end </h3>
@@ -27,8 +25,6 @@ Coming Soon
 
  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
 
-
-
  <hr>
 
  <h3> UI/UX Designer </h3>
@@ -41,25 +37,14 @@ Coming Soon
 
  <hr>
 
+ <!-- Waa dadka ii soo boqdaye -->
 
 
- <h3> Desenvolvimento Mobile </h3>
-
-
-
- <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
-
-  <hr>
-
- <!-- Contador de visitas -->
-
-
-
- <h3> Visitantes </h3>
+ <h3> Booqasho </h3>
 
  <div>
 
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=mustafe77&color=blue" alt="mustafe77" /> <br>
+  <img align="center" alt="javascript" height="30" width="150" src="https://komarev.com/ghpvc/?username=mustafe77&color=blue" alt="mustafe77" /> <br>
 
  </div>
 
